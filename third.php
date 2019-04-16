@@ -11,8 +11,6 @@
 <a href="" class="a" >SIGN IN  |</a>
 <a href="" class="b" >SIGN UP |</a>
 </div>
-	
-	
 <hr>
 <div class="topnav">
 <a href="home" style="color:orange";><font size="6">STELLAR</font></a>
