@@ -3,8 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 namespace Ecommerce
-{
-    #region Men
+{    #region Men
     public class Men
     {
         #region Member Variables
