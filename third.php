@@ -84,9 +84,7 @@
 <input type="button" name="butn" class="butn" value="Search">
 </div>
 </div>
-
 <?php { ?>
-	
 			<?php			
 			$servername = "localhost";
                 	$username = "root";
@@ -101,6 +99,6 @@
 				<img src="<?php echo $rows["img"]; ?>" class="image" width="300" alt="shivi" height="300">
 				
 				<?php } ?>
-	
+
 <?php } ?>
 </body>
